@@ -1,1 +1,1 @@
-# korene
+# computerstudio.hu oldal
