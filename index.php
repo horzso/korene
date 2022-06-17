@@ -113,12 +113,12 @@
 				<a class="example-image-link" href="./kepek/image28.jpeg" data-lightbox="example-set" data-title="<h3>Elárvult műteremsarok (Makoldi Sándor emlékére)</h3><p>50x70cm keretezett (55x75cm)</p><p >magántulajdonban</p>"> <img class="example-image" src="./kepek/image28.jpeg" alt="" /></a>
 				<a class="example-image-link" href="./kepek/image29.jpeg" data-lightbox="example-set" data-title="<h3>Bokodi tó vihar előtt </h3><p>50x40cm olaj, farost</p><p>50 000Ft</p>"> <img class="example-image" src="./kepek/image29.jpeg" alt="" /></a>
 				<a class="example-image-link" href="./kepek/image30.jpeg" data-lightbox="example-set" data-title="<h3>Ciprusi flamingónász</h3><p>50x70cm olaj, farost (55x75cm)</p><p >60 000 Ft</p>"> <img class="example-image" src="./kepek/image30.jpeg" alt="" /></a>
+				<br>
 				<a class="example-image-link" href="./kepek/image31.jpeg" data-lightbox="example-set" data-title="<h3>Portugál udvar</h3><p>40x50cm olaj monotípia, paszpartu nélkül</p><p >20 000 Ft</p>"> <img class="example-image" src="./kepek/image31.jpeg" alt="" /></a>
 				<a class="example-image-link" href="./kepek/image32.jpeg" data-lightbox="example-set" data-title="<h3>A kis táncos</h3><p>43x63 cm olaj, farost keretezett</p><p>45 000Ft</p>"> <img class="example-image" src="./kepek/image32.jpeg" alt="" /></a>
 				<a class="example-image-link" href="./kepek/image33.jpeg" data-lightbox="example-set" data-title="<h3>Mimózaözön</h3><p>65x65 cm olaj, farost, keretezett </p><p>60 000Ft</p>"> <img class="example-image" src="./kepek/image33.jpeg" alt="" /></a>
 				<a class="example-image-link" href="./kepek/image34.jpeg" data-lightbox="example-set" data-title="<h3>Párizs, Szent Mihály út</h3><p>43x43 cm olaj, vászon keretezett</p><p>magántulajdonban</p>"><img class="example-image" src="./kepek/image34.jpeg" alt="" /></a>
-				<br>
-				<a class="example-image-link" href="./kepek/image35.jpeg" data-lightbox="example-set" data-title="<h3>Tátra</h3><p>60x40 cm olaj, farost</p><p>50 000Ft</p>"><img class="example-image" src="./kepek/image35.jpeg" alt="" /></a>
+				<a class="example-image-link" href="./kepek/image35.jpeg" data-lightbox="example-set" data-title="<h3>Tátra</h3><p>60x40 cm olaj, farost</p><p>magántulajdonban</p>"><img class="example-image" src="./kepek/image35.jpeg" alt="" /></a>
 				<a class="example-image-link" href="./kepek/image36.jpeg" data-lightbox="example-set" data-title="<h3>Napraforgók</h3><p>30x40cm pasztell</p><p>magántulajdonban</p>"><img class="example-image" src="./kepek/image36.jpeg" alt="" /></a>
 				<a class="example-image-link" href="./kepek/image37.jpeg" data-lightbox="example-set" data-title="<h3>Arieseny</h3><p>40x40cm olaj, farost</p><p>magántulajdonban</p>"><img class="example-image" src="./kepek/image37.jpeg" alt="" /></a>
 				<a class="example-image-link" href="./kepek/image38.jpeg" data-lightbox="example-set" data-title="<h3>Tokaji emlék (2)</h3><p>50x70cm olaj, farost</p><p>magántulajdonban</p>"><img class="example-image" src="./kepek/image38.jpeg" alt="" /></a>
@@ -141,12 +141,26 @@
 				<a class="example-image-link" href="./kepek/image55.jpeg" data-lightbox="example-set" data-title="<h3>Rózsa</h3><p>50x50cm olaj vászon</p><p>magántulajdonban</p>"><img class="example-image" src="./kepek/image55.jpeg" alt="" /></a>
 				<a class="example-image-link" href="./kepek/image56.jpeg" data-lightbox="example-set" data-title="<h3>Győr</h3><p>40x50cm olaj vászon</p><p>magántulajdonban</p>"><img class="example-image" src="./kepek/image56.jpeg" alt="" /></a>
 				<a class="example-image-link" href="./kepek/image57.jpeg" data-lightbox="example-set" data-title="<h3>Ismerkedés</h3><p>50x70cm olaj, farost</p><p>magántulajdonban</p>"><img class="example-image" src="./kepek/image57.jpeg" alt="" /></a>                
-                <a class="example-image-link" href="./kepek/image58.jpeg" data-lightbox="example-set" data-title="<h3>Tibeti imazászlók</h3><p>60x60cm olaj, farost</p><p>70 000 Ft</p>"><img class="example-image" src="./kepek/image58.jpeg" alt="" /></a>
-				<a class="example-image-link" href="./kepek/image59.jpeg" data-lightbox="example-set" data-title="<h3>Aranyhegy (Csomolungma)</h3><p>50x60cm  olaj, farost</p><p>80 000 Ft</p>"><img class="example-image" src="./kepek/image59.jpeg" alt="" /></a>
+                <a class="example-image-link" href="./kepek/image58.jpeg" data-lightbox="example-set" data-title="<h3>Tibeti imazászlók</h3><p>60x60cm olaj, farost</p><p>magántulajdonban</p>"><img class="example-image" src="./kepek/image58.jpeg" alt="" /></a>
+				<a class="example-image-link" href="./kepek/image59.jpeg" data-lightbox="example-set" data-title="<h3>Aranyhegy (Csomolungma)</h3><p>50x60cm  olaj, farost</p><p>magántulajdonban</p>"><img class="example-image" src="./kepek/image59.jpeg" alt="" /></a>
 				<a class="example-image-link" href="./kepek/image60.jpeg" data-lightbox="example-set" data-title="<h3>Emlék</h3><p>50x70cm  olaj, farost</p><p>70 000 Ft</p>"><img class="example-image" src="./kepek/image60.jpeg" alt="" /></a>
 				<a class="example-image-link" href="./kepek/image61.jpeg" data-lightbox="example-set" data-title="<h3>Győzelem</h3><p>56x36cm  olaj, farost</p><p>50 000 Ft</p>"><img class="example-image" src="./kepek/image61.jpeg" alt="" /></a>
 				<a class="example-image-link" href="./kepek/image62.jpeg" data-lightbox="example-set" data-title="<h3>Fénylépcső az égbe (kolostor belső) Márti emlékére</h3><p>50x60cm olaj, vászon</p><p>magántulajdonban</p>"><img class="example-image" src="./kepek/image62.jpeg" alt="" /></a>
-				<a class="example-image-link" href="./kepek/image63.jpeg" data-lightbox="example-set" data-title="<h3>Az út vége</h3><p>30x30cm  olaj, vászon</p><p>30 000 Ft</p>"><img class="example-image" src="./kepek/image63.jpeg" alt="" /></a>
+				<a class="example-image-link" href="./kepek/image63.jpeg" data-lightbox="example-set" data-title="<h3>Az út vége</h3><p>30x30cm  olaj, vászon</p><p>magántulajdonban</p>"><img class="example-image" src="./kepek/image63.jpeg" alt="" /></a>
+				<a class="example-image-link" href="./kepek/image64.jpeg" data-lightbox="example-set" data-title="<h3>Győrújbaráti hegyoldalak</h3><p>38x50cm olaj monotípia, keretezett 56x66cm </p><p>50 000 Ft</p>"><img class="example-image" src="./kepek/image64.jpeg" alt="" /></a>
+				<a class="example-image-link" href="./kepek/image65.jpeg" data-lightbox="example-set" data-title="<h3>Mexico</h3><p>56x41 cm olaj, farost</p><p>40 000 Ft</p>"><img class="example-image" src="./kepek/image65.jpeg" alt="" /></a>
+				<a class="example-image-link" href="./kepek/image66.jpeg" data-lightbox="example-set" data-title="<h3>Ég az erdő</h3><p>44x44cm olaj, farost</p><p>40 000 Ft</p>"><img class="example-image" src="./kepek/image66.jpeg" alt="" /></a>
+				<a class="example-image-link" href="./kepek/image67.jpeg" data-lightbox="example-set" data-title="<h3>Kitörés</h3><p>40x40cm  olaj, vászon</p><p>40 000 Ft</p>"><img class="example-image" src="./kepek/image67.jpeg" alt="" /></a>
+				<br>
+
+				<a class="example-image-link" href="./kepek/image68.jpeg" data-lightbox="example-set" data-title="<h3>Várakozás</h3><p>50x50cm olaj, vászon</p><p>80 000 Ft</p>"><img class="example-image" src="./kepek/image68.jpeg" alt="" /></a>
+				<a class="example-image-link" href="./kepek/image69.jpeg" data-lightbox="example-set" data-title="<h3>Ázsia</h3><p>40x35cm olaj, farost</p><p>30 000 Ft</p>"><img class="example-image" src="./kepek/image69.jpeg" alt="" /></a>
+				<a class="example-image-link" href="./kepek/image70.jpeg" data-lightbox="example-set" data-title="<h3>Életerő</h3><p>40x30cm olaj, farost</p><p>magántulajdonban</p>"><img class="example-image" src="./kepek/image70.jpeg" alt="" /></a>
+				<a class="example-image-link" href="./kepek/image71.jpeg" data-lightbox="example-set" data-title="<h3>Naplemente a havas Tátrában</h3><p>50x60cm olaj, farost</p><p>magántulajdonban</p>"><img class="example-image" src="./kepek/image71.jpeg" alt="" /></a>
+				<a class="example-image-link" href="./kepek/image72.jpeg" data-lightbox="example-set" data-title="<h3>Jégzajlás a Bajkál tavon</h3><p>50x40 olaj, vászon</p><p>50 000 Ft</p>"><img class="example-image" src="./kepek/image72.jpeg" alt="" /></a>
+				
+
+
 				</div>
 			</div>
         </div>
@@ -159,7 +173,7 @@
                         <p align="justify">
                             <img class="img-responsive" style="max-height:200px;float:right; padding-left:20px;" src="./korene.jpg" />
                             A szín minden…. Mérnökként és festőként örömmel és mélyen átélem Chagall igazát. A színek fantasztikusak, itt vibrálnak, ragyognak körülöttünk, hol pezsdítő frekvencián, hol nyugalmat hozó hullámhosszaikon. Szeretek jóban lenni velük.
-                            11 éves korom óta festek. Tokaji művésztanárom útmutatásaival kezdtem, majd a budapesti egyetemi évek alatt a Vasutas képzőkör és egyetemi képzőkör volt a festés, rajzolás helye. Hosszú kihagyás jött, a műszaki egyetemi évek, majd a mérnöki munka, család, és egyetemi oktatás….csak néha-néha vettem elő a rajzeszközeimet. Pasztell és akvarell volt a kedves technikám, de kilenc éve már olajjal is festek. A színek és a víz ábrázolás segít elmondani mindent a világról, ahogy az alábbi képeimen is látható.<br />
+                            11 éves korom óta festek. Tokaji művésztanárom útmutatásaival kezdtem, majd a budapesti egyetemi évek alatt a Vasutas képzőkör és egyetemi képzőkör volt a festés, rajzolás helye. Hosszú kihagyás jött, a műszaki egyetemi évek, majd a mérnöki munka, család, és egyetemi oktatás….csak néha-néha vettem elő a rajzeszközeimet. Pasztell és akvarell volt a kedves technikám, de tizenegy éve győri mesterem ösztönzésére már olajjal is festek. A színek és a víz ábrázolás segít elmondani mindent a világról, ahogy az alábbi képeimen is látható.<br />
                             Ha valamelyik csillagom vagy képem felkeltette az érdeklődését, keressen meg az alábbi címen: <br /><a href="mailto:koren.edit@computerstudio.hu">Koren.Edit@computerstudio.hu</a>
                         </p>
                     </blockquote>
@@ -313,16 +327,6 @@
                     <li data-target="#myCarousel" data-slide-to="37"></li>
                     <li data-target="#myCarousel" data-slide-to="38"></li>
                     <li data-target="#myCarousel" data-slide-to="39"></li>
-                    <li data-target="#myCarousel" data-slide-to="30"></li>
-                    <li data-target="#myCarousel" data-slide-to="31"></li>
-                    <li data-target="#myCarousel" data-slide-to="32"></li>
-                    <li data-target="#myCarousel" data-slide-to="33"></li>
-                    <li data-target="#myCarousel" data-slide-to="34"></li>
-                    <li data-target="#myCarousel" data-slide-to="35"></li>
-                    <li data-target="#myCarousel" data-slide-to="36"></li>
-                    <li data-target="#myCarousel" data-slide-to="37"></li>
-                    <li data-target="#myCarousel" data-slide-to="38"></li>
-                    <li data-target="#myCarousel" data-slide-to="39"></li>
                     <li data-target="#myCarousel" data-slide-to="40"></li>
                     <li data-target="#myCarousel" data-slide-to="41"></li>
                     <li data-target="#myCarousel" data-slide-to="42"></li>
@@ -346,16 +350,24 @@
 					<li data-target="#myCarousel" data-slide-to="60"></li>
 					<li data-target="#myCarousel" data-slide-to="61"></li>
 					<li data-target="#myCarousel" data-slide-to="62"></li>
-
+					<li data-target="#myCarousel" data-slide-to="63"></li>
+					<li data-target="#myCarousel" data-slide-to="64"></li>
+					<li data-target="#myCarousel" data-slide-to="65"></li>
+					<li data-target="#myCarousel" data-slide-to="66"></li>
+					<li data-target="#myCarousel" data-slide-to="67"></li>
+					<li data-target="#myCarousel" data-slide-to="68"></li>
+					<li data-target="#myCarousel" data-slide-to="69"></li>
+					<li data-target="#myCarousel" data-slide-to="70"></li>
+					<li data-target="#myCarousel" data-slide-to="71"></li>
                 </ol>
 
                 <!-- Wrapper for slides -->
                 <div class="carousel-inner" role="listbox">
 					<div class="item active"><img src="./kepek/image60.jpeg"><div class="carousel-caption"><h3>Emlék</h3><p>50x70cm olaj, farost</p><p>70 000 Ft</p></div></div>
 					<div class="item"><img src="./kepek/image61.jpeg"><div class="carousel-caption"><h3>Győzelem</h3><p>56x36cm  olaj, farost</p><p>50 000 Ft</p></div></div>
-					<div class="item"><img src="./kepek/image58.jpeg"><div class="carousel-caption"><h3>Tibeti imazászlók</h3><p>60x60cm olaj, farost</p><p>70 000 Ft</p></div></div>
-					<div class="item"><img src="./kepek/image59.jpeg"><div class="carousel-caption"><h3>Aranyhegy (Csomolungma)</h3><p>50x60cm  olaj, farost</p><p>80 000 Ft</p></div></div>
-					<div class="item"><img src="./kepek/image01.jpeg"><div class="carousel-caption"><h3>Krumlov</h3><p>70x50cm olaj, farost, keretezett</p><p class="ar">60 000Ft</p></div></div>
+					<div class="item"><img src="./kepek/image58.jpeg"><div class="carousel-caption"><h3>Tibeti imazászlók</h3><p>60x60cm olaj, farost</p><p>magántulajdonban</p></div></div>
+					<div class="item"><img src="./kepek/image59.jpeg"><div class="carousel-caption"><h3>Aranyhegy (Csomolungma)</h3><p>50x60cm  olaj, farost</p><p>magántulajdonban</p></div></div>
+					<div class="item"><img src="./kepek/image01.jpeg"><div class="carousel-caption"><h3>Krumlov</h3><p>70x50cm olaj, farost, keretezett</p><p class="ar">magántulajdonban</p></div></div>
 					<div class="item"><img src="./kepek/image02.jpeg"><div class="carousel-caption"><h3>Athéni kikötő</h3><p>50x70cm olaj, farost, keretezett</p><p class="ar">magántulajdonban</p></div></div>
 					<div class="item"><img src="./kepek/image03.jpeg"><div class="carousel-caption"><h3>Nyugalom</h3><p>70x50cm olaj, farost, keretezett</p><p class="ar">70 000Ft</p></div></div>
 					<div class="item"><img src="./kepek/image04.jpeg"><div class="carousel-caption"><h3>Felhők a naplementében</h3><p>60x60cm olaj, farost</p><p class="ar">60 000Ft</p></div></div>
@@ -389,7 +401,7 @@
 					<div class="item"><img src="./kepek/image32.jpeg"><div class="carousel-caption"><h3>A kis táncos</h3><p>43x63 cm olaj, farost keretezett</p><p>45 000Ft</p></div></div>
 					<div class="item"><img src="./kepek/image33.jpeg"><div class="carousel-caption"><h3>Mimózaözön</h3><p>65x65 cm olaj, farost, keretezett </p><p>60 000Ft</p></div></div>
 					<div class="item"><img src="./kepek/image34.jpeg"><div class="carousel-caption"><h3>Párizs, Szent Mihály út</h3><p>43x43 cm olaj, vászon keretezett</p><p>magántulajdonban</p></div></div>
-					<div class="item"><img src="./kepek/image35.jpeg"><div class="carousel-caption"><h3>Tátra</h3><p>60x40 cm olaj, farost</p><p>50 000Ft</p></div></div>
+					<div class="item"><img src="./kepek/image35.jpeg"><div class="carousel-caption"><h3>Tátra</h3><p>60x40 cm olaj, farost</p><p>magántulajdonban</p></div></div>
 					<div class="item"><img src="./kepek/image36.jpeg"><div class="carousel-caption"><h3>Napraforgók</h3><p>30x40cm pasztell </p><p>magántulajdonban</p></div></div>
 					<div class="item"><img src="./kepek/image37.jpeg"><div class="carousel-caption"><h3>Arieseny</h3><p>40x40cm olaj, farost</p><p>magántulajdonban</p></div></div>
 					<div class="item"><img src="./kepek/image38.jpeg"><div class="carousel-caption"><h3>Tokaji emlék (2)</h3><p>50x70cm olaj, farost</p><p>magántulajdonban</p></div></div>
@@ -413,7 +425,18 @@
 					<div class="item"><img src="./kepek/image56.jpeg"><div class="carousel-caption"><h3>Győr</h3><p>40x50cm olaj vászon</p><p>magántulajdonban</p></div></div>
 					<div class="item"><img src="./kepek/image57.jpeg"><div class="carousel-caption"><h3>Ismerkedés</h3><p>50x70cm olaj, farost</p><p>magántulajdonban</p></div></div>
 					<div class="item"><img src="./kepek/image62.jpeg"><div class="carousel-caption"><h3>Fénylépcső az égbe (kolostor belső) Márti emlékére</h3><p>50x60cm olaj, vászon</p><p>magántulajdonban</p></div></div>
-					<div class="item"><img src="./kepek/image63.jpeg"><div class="carousel-caption"><h3>Az út vége</h3><p>30x30cm olaj, vászon</p><p>30 000Ft</p></div></div>
+					<div class="item"><img src="./kepek/image63.jpeg"><div class="carousel-caption"><h3>Az út vége</h3><p>30x30cm olaj, vászon</p><p>magántulajdonban</p></div></div>
+					<div class="item"><img src="./kepek/image64.jpeg"><div class="carousel-caption"><h3>Győrújbaráti hegyoldalak</h3><p>38x50cm olaj monotípia, keretezett 56x66cm </p><p>50 000 Ft</p></div></div>
+					<div class="item"><img src="./kepek/image65.jpeg"><div class="carousel-caption"><h3>Mexico</h3><p>56x41 cm olaj, farost</p><p>40 000 Ft</p></div></div>
+					<div class="item"><img src="./kepek/image66.jpeg"><div class="carousel-caption"><h3>Ég az erdő</h3><p>44x44cm olaj, farost</p><p>40 000 Ft</p></div></div>
+					<div class="item"><img src="./kepek/image67.jpeg"><div class="carousel-caption"><h3>Kitörés</h3><p>40x40cm  olaj, vászon</p><p>40 000 Ft</p></div></div>
+
+					<div class="item"><img src="./kepek/image68.jpeg"><div class="carousel-caption"><h3>Várakozás</h3><p>50x50cm olaj, vászon</p><p>80 000 Ft</p></div></div>
+					<div class="item"><img src="./kepek/image69.jpeg"><div class="carousel-caption"><h3>Ázsia</h3><p>40x35cm olaj, farost</p><p>30 000 Ft</p></div></div>
+					<div class="item"><img src="./kepek/image70.jpeg"><div class="carousel-caption"><h3>Életerő</h3><p>40x30cm olaj, farost</p><p>magántulajdonban</p></div></div>
+					<div class="item"><img src="./kepek/image71.jpeg"><div class="carousel-caption"><h3>Naplemente a havas Tátrában</h3><p>50x60cm olaj, farost</p><p>magántulajdonban</p></div></div>
+					<div class="item"><img src="./kepek/image72.jpeg"><div class="carousel-caption"><h3>Jégzajlás a Bajkál tavon</h3><p>50x40 olaj, vászon</p><p>50 000 Ft</p></div></div>
+
 					</div>
 
                 <!-- Left and right controls -->
@@ -444,9 +467,9 @@
             <br />
 			<div class="row"><div class="kep col-sm-5 col-sm-offset-2"><img src="./kepek/image60.jpeg"></div><div class="caption col-sm-2"><h3>Emlék</h3><p>50x70cm olaj, farost</p><p>70 000 Ft</p></div></div>
 			<div class="row"><div class="kep col-sm-5 col-sm-offset-2"><img src="./kepek/image61.jpeg"></div><div class="caption col-sm-2"><h3>Győzelem</h3><p>56x36cm  olaj, farost</p><p>50 000 Ft</p></div></div>
-			<div class="row"><div class="kep col-sm-5 col-sm-offset-2"><img src="./kepek/image58.jpeg"></div><div class="caption col-sm-2"><h3>Tibeti imazászlók</h3><p>60x60cm olaj, farost</p><p>70 000 Ft</p></div></div>
-			<div class="row"><div class="kep col-sm-5 col-sm-offset-2"><img src="./kepek/image59.jpeg"></div><div class="caption col-sm-2"><h3>Aranyhegy (Csomolungma)</h3><p>50x60cm  olaj, farost</p><p>80 000 Ft</p></div></div>
-			<div class="row"><div class="kep col-sm-5 col-sm-offset-2"><img src="./kepek/image01.jpeg"></div><div class="caption col-sm-2"><h3>Krumlov</h3><p>70x50cm olaj, farost, keretezett</p><p class="ar">60 000Ft</p></div></div>
+			<div class="row"><div class="kep col-sm-5 col-sm-offset-2"><img src="./kepek/image58.jpeg"></div><div class="caption col-sm-2"><h3>Tibeti imazászlók</h3><p>60x60cm olaj, farost</p><p>magántulajdonban</p></div></div>
+			<div class="row"><div class="kep col-sm-5 col-sm-offset-2"><img src="./kepek/image59.jpeg"></div><div class="caption col-sm-2"><h3>Aranyhegy (Csomolungma)</h3><p>50x60cm  olaj, farost</p><p>magántulajdonban</p></div></div>
+			<div class="row"><div class="kep col-sm-5 col-sm-offset-2"><img src="./kepek/image01.jpeg"></div><div class="caption col-sm-2"><h3>Krumlov</h3><p>70x50cm olaj, farost, keretezett</p><p class="ar">magántulajdonban</p></div></div>
 			<div class="row"><div class="kep col-sm-5 col-sm-offset-2"><img src="./kepek/image02.jpeg"></div><div class="caption col-sm-2"><h3>Athéni kikötő</h3><p>50x70cm olaj, farost, keretezett</p><p class="ar">magántulajdonban</p></div></div>
 			<div class="row"><div class="kep col-sm-5 col-sm-offset-2"><img src="./kepek/image03.jpeg"></div><div class="caption col-sm-2"><h3>Nyugalom</h3><p>70x50cm olaj, farost, keretezett</p><p class="ar">70 000Ft</p></div></div>
 			<div class="row"><div class="kep col-sm-5 col-sm-offset-2"><img src="./kepek/image04.jpeg"></div><div class="caption col-sm-2"><h3>Felhők a naplementében</h3><p>60x60cm olaj, farost</p><p class="ar">60 000Ft</p></div></div>
@@ -480,7 +503,7 @@
 			<div class="row"><div class="kep col-sm-5 col-sm-offset-2"><img src="./kepek/image32.jpeg"></div><div class="caption col-sm-2"><h3>A kis táncos</h3><p>43x63 cm olaj, farost keretezett</p><p>45 000Ft</p></div></div>
 			<div class="row"><div class="kep col-sm-5 col-sm-offset-2"><img src="./kepek/image33.jpeg"></div><div class="caption col-sm-2"><h3>Mimózaözön</h3><p>65x65 cm olaj, farost, keretezett </p><p>60 000Ft</p></div></div>
 			<div class="row"><div class="kep col-sm-5 col-sm-offset-2"><img src="./kepek/image34.jpeg"></div><div class="caption col-sm-2"><h3>Párizs, Szent Mihály út</h3><p>43x43 cm olaj, vászon keretezett</p><p>magántulajdonban</p></div></div>
-			<div class="row"><div class="kep col-sm-5 col-sm-offset-2"><img src="./kepek/image35.jpeg"></div><div class="caption col-sm-2"><h3>Tátra</h3><p>60x40 cm olaj, farost</p><p>50 000Ft</p></div></div>
+			<div class="row"><div class="kep col-sm-5 col-sm-offset-2"><img src="./kepek/image35.jpeg"></div><div class="caption col-sm-2"><h3>Tátra</h3><p>60x40 cm olaj, farost</p><p>magántulajdonban</p></div></div>
 			<div class="row"><div class="kep col-sm-5 col-sm-offset-2"><img src="./kepek/image36.jpeg"></div><div class="caption col-sm-2"><h3>Napraforgók</h3><p>30x40cm pasztell </p><p>magántulajdonban</p></div></div>
 			<div class="row"><div class="kep col-sm-5 col-sm-offset-2"><img src="./kepek/image37.jpeg"></div><div class="caption col-sm-2"><h3>Arieseny</h3><p>40x40cm olaj, farost</p><p>magántulajdonban</p></div></div>
 			<div class="row"><div class="kep col-sm-5 col-sm-offset-2"><img src="./kepek/image38.jpeg"></div><div class="caption col-sm-2"><h3>Tokaji emlék (2)</h3><p>50x70cm olaj, farost</p><p>magántulajdonban</p></div></div>
@@ -504,7 +527,19 @@
 			<div class="row"><div class="kep col-sm-5 col-sm-offset-2"><img src="./kepek/image56.jpeg"></div><div class="caption col-sm-2"><h3>Győr</h3><p>40x50cm olaj vászon</p><p>magántulajdonban</p></div></div>
 			<div class="row"><div class="kep col-sm-5 col-sm-offset-2"><img src="./kepek/image57.jpeg"></div><div class="caption col-sm-2"><h3>Ismerkedés</h3><p>50x70cm olaj, farost</p><p>magántulajdonban</p></div></div>
 			<div class="row"><div class="kep col-sm-5 col-sm-offset-2"><img src="./kepek/image62.jpeg"></div><div class="caption col-sm-2"><h3>Fénylépcső az égbe (kolostor belső) Márti emlékére</h3><p>50x60cm olaj, vászon</p><p>magántulajdonban</p></div></div>
-			<div class="row"><div class="kep col-sm-5 col-sm-offset-2"><img src="./kepek/image63.jpeg"></div><div class="caption col-sm-2"><h3>Az út vége</h3><p>30x30cm olaj, vászon</p><p>30 000Ft</p></div></div>
+			<div class="row"><div class="kep col-sm-5 col-sm-offset-2"><img src="./kepek/image63.jpeg"></div><div class="caption col-sm-2"><h3>Az út vége</h3><p>30x30cm olaj, vászon</p><p>magántulajdonban</p></div></div>
+			<div class="row"><div class="kep col-sm-5 col-sm-offset-2"><img src="./kepek/image64.jpeg"></div><div class="caption col-sm-2"><h3>Győrújbaráti hegyoldalak</h3><p>38x50cm olaj monotípia, keretezett 56x66cm </p><p>50 000 Ft</p></div></div>
+			<div class="row"><div class="kep col-sm-5 col-sm-offset-2"><img src="./kepek/image65.jpeg"></div><div class="caption col-sm-2"><h3>Mexico</h3><p>56x41 cm olaj, farost</p><p>40 000 Ft</p></div></div>
+			<div class="row"><div class="kep col-sm-5 col-sm-offset-2"><img src="./kepek/image66.jpeg"></div><div class="caption col-sm-2"><h3>Ég az erdő</h3><p>44x44cm olaj, farost</p><p>40 000 Ft</p></div></div>
+			<div class="row"><div class="kep col-sm-5 col-sm-offset-2"><img src="./kepek/image67.jpeg"></div><div class="caption col-sm-2"><h3>Kitörés</h3><p>40x40cm  olaj, vászon</p><p>40 000 Ft</p></div></div>
+
+			<div class="row"><div class="kep col-sm-5 col-sm-offset-2"><img src="./kepek/image68.jpeg"></div><div class="caption col-sm-2"><h3>Várakozás</h3><p>50x50cm olaj, vászon</p><p>80 000 Ft</p></div></div>
+			<div class="row"><div class="kep col-sm-5 col-sm-offset-2"><img src="./kepek/image69.jpeg"></div><div class="caption col-sm-2"><h3>Ázsia</h3><p>40x35cm olaj, farost</p><p>30 000 Ft</p></div></div>
+			<div class="row"><div class="kep col-sm-5 col-sm-offset-2"><img src="./kepek/image70.jpeg"></div><div class="caption col-sm-2"><h3>Életerő</h3><p>40x30cm olaj, farost</p><p>magántulajdonban</p></div></div>
+			<div class="row"><div class="kep col-sm-5 col-sm-offset-2"><img src="./kepek/image71.jpeg"></div><div class="caption col-sm-2"><h3>Naplemente a havas Tátrában</h3><p>50x60cm olaj, farost</p><p>magántulajdonban</p></div></div>
+			<div class="row"><div class="kep col-sm-5 col-sm-offset-2"><img src="./kepek/image72.jpeg"></div><div class="caption col-sm-2"><h3>Jégzajlás a Bajkál tavon</h3><p>50x40 olaj, vászon</p><p>50 000 Ft</p></div></div>
+
+
         </div>
 
     </section>
