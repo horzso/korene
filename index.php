@@ -194,7 +194,7 @@
   .stars .eyebrow{color:#e7c98a;}
   .stars-intro{max-width:600px;line-height:1.7;color:rgba(246,241,230,0.85);margin-top:18px;}
   .stars-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(120px,1fr));gap:14px;margin-top:52px;}
-  .star-card{position:relative;overflow:hidden;background:var(--teal-deep);aspect-ratio:1/1;border-radius:3px;}
+  .star-card{position:relative;overflow:hidden;background:var(--teal-deep);aspect-ratio:1/1;border-radius:3px;cursor:pointer;}
   .star-card img{width:100%;height:100%;object-fit:cover;transition:transform .5s ease;}
   .star-card:hover img{transform:scale(1.08);}
   .star-tag{position:absolute;bottom:0;left:0;right:0;background:rgba(20,32,30,0.82);
@@ -512,7 +512,7 @@ function renderGrid(reset){
         <div class="p-spec">${p.spec}</div>
         ${priceLine(p)}
       </div>`;
-    card.addEventListener('click',()=>openLightbox(p.n));
+    card.addEventListener('click',()=>openLightbox('paintings', p.n));
     grid.appendChild(card);
   });
   shown += next.length;
@@ -531,11 +531,12 @@ renderGrid(true);
 
 // ---------- STARS RENDER ----------
 const starsGrid = document.getElementById('starsGrid');
-allStars.forEach(s=>{
+allStars.forEach((s,i)=>{
   const el = document.createElement('div');
   el.className='star-card';
   el.innerHTML = `<img src="${s.img}" alt="${s.label} – Koren Edit kis méretű hajtogatott festménye, Csillagok sorozat" loading="lazy" decoding="async">
     <div class="star-tag"><span>${s.label}</span><b>${s.price.toLocaleString('hu-HU')} Ft</b></div>`;
+  el.addEventListener('click',()=>openLightbox('stars', i));
   starsGrid.appendChild(el);
 });
 
@@ -544,23 +545,42 @@ const lightbox = document.getElementById('lightbox');
 const lbImg = document.getElementById('lbImg');
 const lbTitle = document.getElementById('lbTitle');
 const lbSpec = document.getElementById('lbSpec');
+const lbShareBtn = document.getElementById('lbShare');
+let currentSet = paintings;   // aktív gyűjtemény: paintings vagy allStars
 let currentIdx = 0;
 
-function openLightbox(n){
-  currentIdx = paintings.findIndex(p=>p.n===n);
+function openLightbox(setName, key){
+  if(setName === 'stars'){
+    currentSet = allStars;
+    currentIdx = key;                              // key = index az allStars-ban
+  } else {
+    currentSet = paintings;
+    currentIdx = paintings.findIndex(p=>p.n===key); // key = a festmény sorszáma (n)
+  }
   showLightbox();
   lightbox.classList.add('open');
 }
 function showLightbox(){
-  const p = paintings[currentIdx];
-  lbImg.src = p.img; lbImg.alt = `${p.title} – Koren Edit festőművész alkotása, ${p.spec}`;
-  lbTitle.textContent = p.title;
-  lbSpec.textContent = p.spec + ' — ' + (p.price===null ? 'Magántulajdonban' : p.price.toLocaleString('hu-HU')+' Ft');
+  const item = currentSet[currentIdx];
+  lbImg.src = item.img;
+  if(currentSet === paintings){
+    lbImg.alt = `${item.title} – Koren Edit festőművész alkotása, ${item.spec}`;
+    lbTitle.textContent = item.title;
+    lbSpec.textContent = item.spec + ' — ' + (item.price===null ? 'Magántulajdonban' : item.price.toLocaleString('hu-HU')+' Ft');
+  } else {
+    lbImg.alt = `${item.label} – Koren Edit kis méretű hajtogatott festménye, Csillagok sorozat`;
+    lbTitle.textContent = 'Csillag ' + item.label;
+    lbSpec.textContent = 'Csillagok sorozat — ' + item.price.toLocaleString('hu-HU') + ' Ft';
+  }
 }
 document.getElementById('lbClose').addEventListener('click',()=>lightbox.classList.remove('open'));
-document.getElementById('lbShare').addEventListener('click', e=>shareOnFacebook(paintings[currentIdx].title, e));
-document.getElementById('lbPrev').addEventListener('click',()=>{currentIdx=(currentIdx-1+paintings.length)%paintings.length;showLightbox();});
-document.getElementById('lbNext').addEventListener('click',()=>{currentIdx=(currentIdx+1)%paintings.length;showLightbox();});
+lbShareBtn.addEventListener('click', e=>{
+  const item = currentSet[currentIdx];
+  const shareTitle = (currentSet === paintings) ? item.title : ('Csillag ' + item.label);
+  shareOnFacebook(shareTitle, e);
+});
+document.getElementById('lbPrev').addEventListener('click',()=>{currentIdx=(currentIdx-1+currentSet.length)%currentSet.length;showLightbox();});
+document.getElementById('lbNext').addEventListener('click',()=>{currentIdx=(currentIdx+1)%currentSet.length;showLightbox();});
 lightbox.addEventListener('click',e=>{ if(e.target===lightbox) lightbox.classList.remove('open'); });
 document.addEventListener('keydown',e=>{
   if(!lightbox.classList.contains('open')) return;
